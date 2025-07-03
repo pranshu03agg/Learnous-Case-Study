@@ -37,8 +37,8 @@ The presentation includes:
 
 ##  Files
 
-- `morelq.pdf`: Final case study presentation.
-- `__Learnous_case_2025 2.pdf`: Original case study document.
+- `Solution Statement.pdf`: Final case study presentation.
+- `Problem Statement(LearnousCase).pdf`: Original case study document.
 
 ##  Contact
 
